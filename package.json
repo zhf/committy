@@ -1,6 +1,6 @@
 {
   "name": "committy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Smart git commit assistant powered by OpenAI",
   "main": "dist/index.js",
   "bin": {
